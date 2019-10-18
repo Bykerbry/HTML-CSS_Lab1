@@ -1,0 +1,33 @@
+body{
+    background-color: #f9fafc;
+    font-family: 'Open Sans', sans-serif;
+    color: #69696a;
+    font-size: 11px;
+    font-weight: 600;
+    margin: 10px;
+}
+nav{
+    list-style-type: none;
+}
+li{
+    padding: 5px 0 5px 5px; 
+}
+.btn{
+    padding: 7px 0 7px 0;
+    border-radius: 30px;
+    text-align: center;
+    display: block;
+    font-weight: 200;
+    width: 100%;
+    color: #FFF;
+    background-color: #000;
+    font-size: 11px;
+    text-decoration: none;
+}
+.black{
+    color: #000;
+}
+p {
+    border-left: 2px solid #69696a;; 
+    padding-left: 10px;
+}
